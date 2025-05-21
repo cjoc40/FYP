@@ -2,7 +2,7 @@
 This project is a Kotlin-based application for using the algorithms Minimax and Monte Carlo Tree Search (MCTS) for AI decision-making comparisons between Tic-Tac-Toe and Connect4.  
 
 **Key Features**
-1.     AI Algorithms: Minimax with optional pruning and MCTS.
+1.     AI Algorithms: Minimax with optional pruning and MCTS(Monte-Carlo search tree).
 2.     Game Modes: Tic-Tac-Toe and Connect4.
 3.     Performance Stats eg. CPU usage, memory usage, and move duration.
 4.     Firebase Integration for user authentication and game data storage(Future work).
